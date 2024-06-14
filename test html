@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My HTML Project</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My HTML Project</h1>
+    </header>
+    
+    <main>
+        <section>
+            <h2>About Section</h2>
+            <p>This is a simple HTML page demonstrating semantic tags and elements.</p>
+        </section>
+        
+        <section>
+            <h2>Image Gallery</h2>
+            <figure>
+                <img src="https://via.placeholder.com/300" alt="Placeholder image 1">
+                <figcaption>Image 1: Description of image 1</figcaption>
+            </figure>
+            
+            <figure>
+                <img src="https://via.placeholder.com/300" alt="Placeholder image 2">
+                <figcaption>Image 2: Description of image 2</figcaption>
+            </figure>
+            
+            <figure>
+                <img src="https://via.placeholder.com/300" alt="Placeholder image 3">
+                <figcaption>Image 3: Description of image 3</figcaption>
+            </figure>
+        </section>
+        
+        <section>
+            <h2>Useful Links</h2>
+            <ul>
+                <li><a href="https://www.example.com" target="_blank">Example Website</a></li>
+                <li><a href="https://www.example.org" target="_blank">Example Organization</a></li>
+                <li><a href="https://www.example.net" target="_blank">Example Network</a></li>
+            </ul>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2024 My HTML Project. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
